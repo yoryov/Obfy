@@ -15,4 +15,3 @@ The following types of IoC can be detected:
   - SHA1
   - SHA256
 
-a test phrase
