@@ -14,4 +14,5 @@ The following types of IoC can be detected:
   - MD5
   - SHA1
   - SHA256
-
+  
+This tool is designed for Threat Intelligence analysts or Security Researchers, but anyone in the IT field can take benefits from this extension.
