@@ -14,3 +14,5 @@ The following types of IoC can be detected:
   - MD5
   - SHA1
   - SHA256
+
+a test phrase
